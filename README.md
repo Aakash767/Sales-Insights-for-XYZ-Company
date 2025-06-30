@@ -1,9 +1,9 @@
 # Sales-Insights-for-XYZ-Company
 
 ## Description of project
-Sales Insights for XYZ Company is the consist of tabeau dashboard which describe the Sales and Profit of the XYZ Company.
-In this project we have stored the sql data into the tableau itself because of which we can see the dashboard in any computer which has tableau installed.
-Given below are the sql query using which we can see some important data which will be needed.
+Sales Insights for XYZ Company is a Tableau dashboard that will give the entire company an overall view of the company's Sales and Profit performance. This project combines SQL data directly into Tableau so the dashboard can be accessed and viewed on any computer with Tableau running—without needing a live connection to the original database.
+
+To facilitate analysis, critical SQL queries were applied to obtain and prepare required data. These queries aid in obtaining meaningful information and representing key business metrics effectively on the dashboard.
 
 ## Data Analysis Using SQL
 Show all customer records
